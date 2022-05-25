@@ -1,4 +1,4 @@
-<div style="text-align:center"><img src="https://raw.githubusercontent.com/zhensyuan/imgs/master/yz2.jpg" width = "200" height = "800" align=center/></div>  
+<div style="text-align:center"><img src="https://raw.githubusercontent.com/zhensyuan/imgs/master/yz2.jpg" width = "800" height = "200" align=center/></div>  
 
 ## Welcome to GitHub Pages
 
