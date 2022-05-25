@@ -2,7 +2,7 @@
 sort: 1
 ---
 
-# Test Documentation
+# 社会心理学
 
 ```
 {% raw %}{% include list.liquid all=true %}{% endraw %}
