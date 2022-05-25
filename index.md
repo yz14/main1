@@ -1,10 +1,12 @@
+<div style="text-align:center"><img src="https://raw.githubusercontent.com/zhensyuan/imgs/master/yz2.jpg" width = "200" height = "800" align=center/></div>  
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/zhensyuan/yz/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.  
 
-<div style="text-align:center"><img src="https://raw.githubusercontent.com/zhensyuan/imgs/master/yz2.jpg" width = "214" height = "214" align=center/></div>  
+
 
 ### Markdown
 
