@@ -1,3 +1,5 @@
+ style="text-align:center"><img src="https://pic2.zhimg.com/80/v2-d996a5a8e5ae8d401a878ae596fe0a1d_720w.jpg" align=center/></div>  
+ 
 ## 欢迎来到我的笔记  
 手机端可以在左上角看到所有目录。
 
