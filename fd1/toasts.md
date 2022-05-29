@@ -2,7 +2,15 @@
 sort: 2
 ---
 
-# Toasts Card
+# 归因：理解他人  
+
+
+```思考
+每个人
+```
+
+
+
 
 THIS IS TOO LONG, NEED UPDATE! HERE IS SOME IDEAS:
 
