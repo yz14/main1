@@ -39,3 +39,8 @@ Edit this page to see how to add this to your docs, theme can use [@primer/css u
 {:.text-red}
 好  
 挺好
+
+<font color=red size=4>我是逐浪立楷，绿色，尺寸为5</font>
+<font face="宋体" color=red>我是逐浪立楷，绿色，尺寸为5</font>
+<font face="宋体" color=red size=3>我是逐浪立楷，绿色，尺寸为5</font>
+<font face="宋体" color=red size=2>我是逐浪立楷，绿色，尺寸为5</font>
